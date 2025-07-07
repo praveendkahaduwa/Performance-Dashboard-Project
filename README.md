@@ -25,6 +25,6 @@ This project demonstrates my experience in:
 - Managing complex filter logic across multiple categories
 
 ## 📸 Dashboard Preview
-![Performance Dashboard](WC.png)
+![Performance Dashboard](Performance PBI.png)
 
 
